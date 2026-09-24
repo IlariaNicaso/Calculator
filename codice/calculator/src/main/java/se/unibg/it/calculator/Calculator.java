@@ -12,3 +12,8 @@ public class Calculator {
 			return 0;
 	}
 }
+	
+	public static int Differenza(int a, int b) {
+		return (a-b);
+	}
+ }
