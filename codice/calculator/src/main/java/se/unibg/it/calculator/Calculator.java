@@ -11,7 +11,6 @@ public class Calculator {
 		else
 			return 0;
 	}
-}
 	
 	public static int prod(int a, int b) {
 		return a*b;
