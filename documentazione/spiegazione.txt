@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 
 
-ilariettafresca
-=======
-Simone Piva
->>>>>>> 1e257f840dffd4273fe90ae6a785c8a7c9a46b0c
+IlariettaFresca
