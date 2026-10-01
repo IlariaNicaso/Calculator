@@ -19,4 +19,6 @@ public class Calculator {
 	public static int Differenza(int a, int b) {
 		return (a-b);
 	}
+	
+	//codice modificato
 }
